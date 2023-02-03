@@ -1,0 +1,76 @@
+{
+  "producList": [
+    {
+      "productName": "sereme",
+      "categorie": "Fruits",
+      "qualite": "Nouveau",
+      "prix": 5000,
+      "commentaire": "c'est très bon !",
+      "date": "2022-09-12T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "drone",
+      "categorie": "Electronic",
+      "qualite": "Second MAin",
+      "prix": 10000,
+      "commentaire": "un peu mieux",
+      "date": "2022-10-12T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "televiseur",
+      "categorie": "Electronic",
+      "qualite": "Nouveau",
+      "prix": 5933,
+      "commentaire": "Boulangerie",
+      "date": "2021-06-08T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Mangue",
+      "categorie": "Fruits",
+      "qualite": "Second MAin",
+      "prix": 4000,
+      "commentaire": "cool",
+      "date": "2016-06-08T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mandarine",
+      "categorie": "Fruits",
+      "qualite": "Second MAin",
+      "prix": 600,
+      "commentaire": "bon",
+      "date": "2016-06-08T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Aubergine",
+      "categorie": "Fruits",
+      "qualite": "Second MAin",
+      "prix": 7500,
+      "commentaire": "cool",
+      "date": "2016-06-08T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Orange",
+      "categorie": "Fruits",
+      "qualite": "Second MAin",
+      "prix": 500,
+      "commentaire": "cool",
+      "date": "2016-06-08T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Comcombre",
+      "categorie": "Vegetables",
+      "qualite": "Nouveau",
+      "prix": 500,
+      "commentaire": "bonne qualité",
+      "date": "2021-03-11T00:00:00.000Z",
+      "id": 9
+    }
+  ]
+}
